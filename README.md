@@ -1,16 +1,19 @@
-### Hi there, it's me 👋
+# Let's take a tour 👨🏿‍💻👋🏿
 
-<!--
-**topheruk/topheruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview of where to find my work
 
-Here are some ideas to get you started:
+Language specific profiles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Name|Objective(s)|
+|:----|:----|
+|[Go](https://github.com/topheruk-go)|Web Services, System Design & Databases|
+<!-- |[C](/organisation/c/.github/profile/README.md)|CMake & Digital Signal Processing| -->
+<!-- |[CSharp](/organisation/c-sharp/.github/profile/README.md)|.NET & PowerShell| -->
+<!-- |[Deno](/organisation/deno/.github/profile/README.md)|Parsing Data, Web Sockets| -->
+<!-- |[Haskell](/organisation/haskell/.github/profile/README.md)|Parsing Data, Data Structures & Algorithms| -->
+<!-- |[Node](/organisation/node/.github/profile/README.md)|Web Components, Web Audio API, SVGs & UI Animations| -->
+<!-- |[Rust](/organisation/rust/.github/profile/README.md)|Digital Signal Processing, Web Assembly, Data Structures & Algorithms| -->
+
+<!-- 
+- inspiratartion https://github.com/abhisheknaiidu/awesome-github-profile-readme#game-mode-
+ -->
