@@ -2,7 +2,7 @@
 
 ## Overview of where to find my work
 
-Language specific profiles
+Languages:
 
 |Name|Objective(s)|
 |:----|:----|
