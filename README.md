@@ -1,6 +1,6 @@
 # Let's take a tour 👨🏿‍💻👋🏿
 
-## Overview of where to find my work
+## Overview
 
 Languages:
 
