@@ -4,6 +4,8 @@
 
 Languages:
 
+These profiles link to projects that are very language specific.
+
 |Name|Objective(s)|
 |:----|:----|
 |[C](https://github.com/hyphenclang)|CMake & Digital Signal Processing|
