@@ -1,16 +1,12 @@
 # Let's take a tour 👨🏿‍💻👋🏿
 
-## Overview
-
-Languages:
-
-These profiles link to projects that are very language specific.
+## Overview of Programming Languages
 
 |Name|Objective(s)|
 |:----|:----|
 |[C](https://github.com/hyphenclang)|CMake & Digital Signal Processing|
 |[Deno](https://github.com/hyphendeno)|SSR, Systems & Web Sockets|
-|[Go](https://github.com/hyphengo)|Web Services, System Design & Databases|
+|[Go](https://github.com/hyphengolang)|Web Services, System Design & Databases|
 |[Node](https://github.com/hyphennode)|Web Components, Web Audio API, SVGs & UI Animations|
 |[Rust](https://github.com/hyphenrust)|Digital Signal Processing, Web Assembly, Data Structures & Algorithms|
 <!-- |[CSharp](/organisation/c-sharp/.github/profile/README.md)|.NET & PowerShell| -->
