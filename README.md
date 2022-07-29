@@ -12,6 +12,8 @@
 <!-- |[CSharp](/organisation/c-sharp/.github/profile/README.md)|.NET & PowerShell| -->
 <!-- |[Haskell](/organisation/haskell/.github/profile/README.md)|Parsing Data, Data Structures & Algorithms| -->
 
-<!-- 
-- inspiratartion https://github.com/abhisheknaiidu/awesome-github-profile-readme#game-mode-
- -->
+## Useful Github Tip & Tricks
+
+- [github rules](https://www.youtube.com/watch?v=CNCE1gts2Yw)
+
+- [concurrency](https://www.youtube.com/watch?v=PZ_A0QiLvz8)
