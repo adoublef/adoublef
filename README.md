@@ -14,6 +14,8 @@
 
 ## Useful Github Tip & Tricks
 
+- [locally protected](https://barker.codes/blog/branch-protection-in-visual-studio-code/)
+
 - [github rules](https://www.youtube.com/watch?v=CNCE1gts2Yw)
 
 - [concurrency](https://www.youtube.com/watch?v=PZ_A0QiLvz8)
