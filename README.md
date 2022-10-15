@@ -19,3 +19,7 @@
 - [github rules](https://www.youtube.com/watch?v=CNCE1gts2Yw)
 
 - [concurrency](https://www.youtube.com/watch?v=PZ_A0QiLvz8)
+
+## Bash tips
+
+Creating alias commands using this useful [link](https://linuxize.com/post/how-to-create-bash-aliases/)
