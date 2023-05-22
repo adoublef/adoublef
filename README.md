@@ -25,6 +25,14 @@ In addition to these, I've also worked on exciting projects using other language
 - [C](https://github.com/hyphenclang)
 - [Haskell](https://github.com/hyphenhaskell)
 
+<!-- ### *Web Development* -->
+
+<!-- Link to a fullstack React/FastAPI/PostgreSQL -->
+
+<!-- Link to a fullstack Svelte/ExpressJS/PostgreSQL -->
+
+<!-- Link to a fullstack  -->
+
 <!-- 
 - Programming Languages: JavaScript, Python, Java
 - Front-end Development: HTML, CSS, React, Vue.js
