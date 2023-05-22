@@ -1,3 +1,15 @@
 [submodule "orgs/hyphenode"]
 	path = orgs/hyphenode
 	url = https://github.com/hyphenode/.github
+[submodule "orgs/hyphengolang"]
+	path = orgs/hyphengolang
+	url = https://github.com/hyphengolang/.github
+[submodule "orgs/hyphendeno"]
+	path = orgs/hyphendeno
+	url = https://github.com/hyphendeno/.github
+[submodule "orgs/hyphenhaskell"]
+	path = orgs/hyphenhaskell
+	url = https://github.com/hyphenhaskell/.github
+[submodule "orgs/hyphenclang"]
+	path = orgs/hyphenclang
+	url = https://github.com/hyphenclang/.github
