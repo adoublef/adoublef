@@ -1,25 +1,50 @@
-# Let's take a tour 👨🏿‍💻👋🏿
+# 👨🏿‍💻 **Welcome to me** 👋🏿
 
-## Overview of Programming Languages
+<!-- add github banners -->
 
-|Name|Objective(s)|
-|:----|:----|
-|[C](https://github.com/hyphenclang)|CMake & Digital Signal Processing|
-|[Deno](https://github.com/hyphendeno)|SSR, Systems & Web Sockets|
-|[Go](https://github.com/hyphengolang)|Web Services, System Design & Databases|
-|[Node](https://github.com/hyphenode)|Web Components, Web Audio API, SVGs & UI Animations|
-|[Rust](https://github.com/hyphenrust)|Digital Signal Processing, Web Assembly, Data Structures & Algorithms|
-<!-- |[CSharp](/organisation/c-sharp/.github/profile/README.md)|.NET & PowerShell| -->
-<!-- |[Haskell](/organisation/haskell/.github/profile/README.md)|Parsing Data, Data Structures & Algorithms| -->
+I am a versatile software developer skilled in multiple programming languages, with a focus on modern web technologies.
 
-## Useful Github Tip & Tricks
+Feel free to explore my repositories for examples of my work and collaborations. Don't hesitate to reach out if you have any questions or would like to discuss potential collaborations!
 
-- [locally protected](https://barker.codes/blog/branch-protection-in-visual-studio-code/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adoublef&hide=stars&count_private=true&show_icons=true)
 
-- [github rules](https://www.youtube.com/watch?v=CNCE1gts2Yw)
+## Skills
 
-- [concurrency](https://www.youtube.com/watch?v=PZ_A0QiLvz8)
+Feel free to explore these repositories to get a better understanding of my diverse coding experience. I'm always eager to collaborate on interesting projects and expand my knowledge in the ever-evolving world of software development. Let's build something amazing together!
 
-## Bash tips
+### *Programming languages*
 
-Creating alias commands using this useful [link](https://linuxize.com/post/how-to-create-bash-aliases/)
+- **Golang**: Since 2020, I've been drawn to the elegance and scalability of Go when designing web services. I find immense joy in crafting efficient and robust solutions using this language. Feel free to check out my Go projects [here](https://github.com/hyphengolang).
+
+- **TypeScript**: As my second most used language, I've been working with TypeScript since 2018. I love diving into reactivity frameworks like [SolidJS](https://www.solidjs.com/) or [Svelte](https://svelte.dev/), as well as exploring web standards such as the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API). You can find my TypeScript projects [here](https://github.com/hyphenode).
+
+In addition to these, I've also worked on exciting projects using other languages such as Python, Rust, C, and Haskell. Here are some repositories dedicated to each of these languages:
+
+- [Python](https://github.com/hyphenpython)
+- [Rust](https://github.com/hyphenrust)
+- [C](https://github.com/hyphenclang)
+- [Haskell](https://github.com/hyphenhaskell)
+
+### *Web Development*
+
+I have a strong focus on web development and have made significant contributions in this domain. Here are some highlights of my work
+
+- **Rapidmidiex**: This is a real-time music performing platform for musicians to collaborate remotely. The public repository & website can be found both [here](https://github.com/Rapidmidiex) and [here](https://rapidmidiex.com/) respectively. The tech stack includes [Go](https://go.dev/), [Svelte](https://svelte.dev/), [Postgres](https://www.postgresql.org/) & [Docker](https://www.docker.com/) for deployment.
+
+<!-- web framework in Typescript -->
+
+<!-- drum-machine in TypeScript: LitHTML -->
+
+<!-- Link to a fullstack React/FastAPI/PostgreSQL -->
+
+<!-- Link to a fullstack Svelte/ExpressJS/PostgreSQL -->
+
+<!-- Link to a fullstack  -->
+
+## Blog
+
+During my spare time, I am an avid learner, constantly seeking new knowledge and insights. I frequently encounter requests from others to share my discoveries, which led me to create my [Medium profile](https://medium.com/@kristopherab). Here, you can delve into my thought process and explore the various ways in which I digest and process information.
+
+## Contact
+
+I'm open to connect with all, whether it's to pair programme, work opportunities, or a general chit-chat. You can get in touch via my [email](mailto:kristopherab@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kraffulbrown/)
