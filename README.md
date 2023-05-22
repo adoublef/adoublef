@@ -10,12 +10,15 @@ Feel free to explore my repositories for examples of my work and collaborations.
 
 ## Skills
 
+Feel free to explore these repositories to get a better understanding of my diverse coding experience. I'm always eager to collaborate on interesting projects and expand my knowledge in the ever-evolving world of software development. Let's build something amazing together!
+
 ### *Programming languages*
 
-- [Golang](https://go.dev/) is a programming language I find myself gravitating to most. Starting in 2020, I have found joy using Go to design web services. A full look at these projects can be found [here](https://github.com/hyphengolang) 
-- [TypeScript](https://www.typescriptlang.org/) is likely my second most used language. I enjoy diving into reactivity frameworks such as [SolidJS](https://www.solidjs.com/) or [Svelte](https://svelte.dev/), or web standards such as the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API). A full look at these projects can be found [here](https://github.com/hyphenode) 
+- **Golang**: Since 2020, I've been drawn to the elegance and scalability of Go when designing web services. I find immense joy in crafting efficient and robust solutions using this language. Feel free to check out my Go projects [here](https://github.com/hyphengolang).
 
-A look at some other repositories which are language specific
+- **TypeScript**: As my second most used language, I've been working with TypeScript since 2018. I love diving into reactivity frameworks like [SolidJS](https://www.solidjs.com/) or [Svelte](https://svelte.dev/), as well as exploring web standards such as the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API). You can find my TypeScript projects [here](https://github.com/hyphenode).
+
+In addition to these, I've also worked on exciting projects using other languages such as Python, Rust, C, and Haskell. Here are some repositories dedicated to each of these languages:
 
 - [Python](https://github.com/hyphenpython)
 - [Rust](https://github.com/hyphenrust)
