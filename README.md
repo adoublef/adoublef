@@ -25,23 +25,21 @@ In addition to these, I've also worked on exciting projects using other language
 - [C](https://github.com/hyphenclang)
 - [Haskell](https://github.com/hyphenhaskell)
 
-<!-- ### *Web Development* -->
+### *Web Development*
+
+I have a strong focus on web development and have made significant contributions in this domain. Here are some highlights of my work
+
+- **Rapidmidiex**: This is a real-time music performing platform for musicians to collaborate remotely. The public repository & website can be found both [here](https://github.com/Rapidmidiex) and [here](https://rapidmidiex.com/) respectively. The tech stack includes [Go](https://go.dev/), [Svelte](https://svelte.dev/), [Postgres](https://www.postgresql.org/) & [Docker](https://www.docker.com/) for deployment.
+
+<!-- web framework in Typescript -->
+
+<!-- drum-machine in TypeScript: LitHTML -->
 
 <!-- Link to a fullstack React/FastAPI/PostgreSQL -->
 
 <!-- Link to a fullstack Svelte/ExpressJS/PostgreSQL -->
 
 <!-- Link to a fullstack  -->
-
-<!-- 
-- Programming Languages: JavaScript, Python, Java
-- Front-end Development: HTML, CSS, React, Vue.js
-- Back-end Development: Node.js, Express, Django
-- Database Technologies: MySQL, MongoDB
-- DevOps Tools: Git, Docker, Jenkins
-- Cloud Platforms: AWS, Azure
-- Testing Frameworks: Jest, Selenium
- -->
 
 ## Blog
 
