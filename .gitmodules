@@ -13,3 +13,6 @@
 [submodule "orgs/hyphenclang"]
 	path = orgs/hyphenclang
 	url = https://github.com/hyphenclang/.github
+[submodule "orgs/hyphenpython"]
+	path = orgs/hyphenpython
+	url = https://github.com/hyphenpython/.github
