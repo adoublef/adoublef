@@ -39,3 +39,9 @@ To update when a new patch is released we can use the following command:
 sudo apt-get update
 sudo apt-get upgrade
 ```
+
+To verify installation use the following command:
+
+```bash
+dotnet --version
+```
