@@ -22,3 +22,9 @@
 [submodule "orgs/jvm"]
 	path = orgs/jvm
 	url = https://github.com/adoublef-jvm/.github
+[submodule "orgs/php"]
+	path = orgs/php
+	url = https://github.com/adoublef-php/.github
+[submodule "orgs/cs"]
+	path = orgs/cs
+	url = https://github.com/adoublef-cs/.github
