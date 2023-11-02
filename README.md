@@ -1,33 +1,25 @@
 # 👨🏿‍💻 **Welcome to me** 👋🏿
 
-<!-- add github banners -->
+**`Tech | Software Engineer`**
 
-I am a versatile software developer skilled in multiple programming languages, with a focus on modern web technologies.
+I'm a versatile software developer, proficient in multiple programming languages, with a strong emphasis on contemporary web technologies. Beyond coding, my heart beats for music, photography, and motorsport. These passions not only fuel my creativity but also provide a well-rounded perspective on life. I'm on the lookout for full-time opportunities with a forward-thinking company that fosters growth and positive change
 
-Feel free to explore my repositories for examples of my work and collaborations. Don't hesitate to reach out if you have any questions or would like to discuss potential collaborations!
 
-## Skills
-
-Feel free to explore these repositories to get a better understanding of my diverse coding experience. I'm always eager to collaborate on interesting projects and expand my knowledge in the ever-evolving world of software development. Let's build something amazing together!
-
-### *Programming languages*
-
-- **Golang**: Since 2020, I've been drawn to the elegance and scalability of Go when designing web services. I find immense joy in crafting efficient and robust solutions using this language.
-
-- **TypeScript**: As my second most used language, I've been working with TypeScript since 2018. I love diving into reactivity frameworks like [SolidJS](https://www.solidjs.com/) or [Svelte](https://svelte.dev/), as well as exploring web standards such as the [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API).
-
-In addition to these, I've also worked on exciting projects using other languages such as Python, Rust, C, and Haskell.
-
-### *Current Projects*
-
-I have a strong focus on web development and have made significant contributions in this domain. Here are some highlights of my work
-
-- **Rapidmidiex**: This is a real-time music performing platform for musicians to collaborate remotely. The public repository & website can be found both [here](https://github.com/Rapidmidiex) and [here](https://rapidmidiex.com/) respectively. The tech stack includes [Go](https://go.dev/), [Svelte](https://svelte.dev/), [Postgres](https://www.postgresql.org/) & [Docker](https://www.docker.com/) for deployment.
-
-## Blog
-
-During my spare time, I am an avid learner, constantly seeking new knowledge and insights. I frequently encounter requests from others to share my discoveries, which led me to create my [Medium profile](https://medium.com/@kristopherab). Here, you can delve into my thought process and explore the various ways in which I digest and process information.
-
-## Contact
-
-I'm open to connect with all, whether it's to pair programme, work opportunities, or a general chit-chat. You can get in touch via my [email](mailto:kristopherab@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kraffulbrown/)
+<img align="left" alt="Go" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+<img align="left" alt="Deno" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:30px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png"/>
+<img align="left" alt="Terraform" width="30px" style="padding-right:30px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Terraform" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img  align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:30px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"/>
+<img align="left" alt="ReactJS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
+<img align="left" alt="SvelteJS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<!-- NATS.io -->
