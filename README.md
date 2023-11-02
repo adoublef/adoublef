@@ -17,7 +17,7 @@ I'm a versatile software developer, proficient in multiple programming languages
 <img align="left" alt="ReactJS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
 <img align="left" alt="SvelteJS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="SQLite" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
